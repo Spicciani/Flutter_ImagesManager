@@ -45,5 +45,11 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Necessario per caricare le immagini</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Necessario per scattare foto</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Necessario per video</string>
 </dict>
 </plist>
